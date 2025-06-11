@@ -1,5 +1,5 @@
 [project]
-title = "Iris Data Explorert"
+title = "Iris Data Explorer"
 version = "0.1.0"
 port = 8501
 slug = "{project_slug}"
